@@ -21,7 +21,7 @@
       .col
         h3 Tipos de fichas técnicas
     
-    p.mb-5 A continuación, se presentan con los principales tipos de fichas técnicas utilizadas en marroquinería:
+    p.mb-5 A continuación, se presentan los principales tipos de fichas técnicas utilizadas en marroquinería:
 
     .fondo___img
       .px-5

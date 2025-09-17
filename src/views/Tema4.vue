@@ -28,7 +28,7 @@
                 <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Cizallas manuales y troqueladoras hidráulicas:</strong> permiten cortes exactos con troqueles metálicos sobre cuero, sintéticos o textiles.</li>
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Máquinas de corte por cuchilla oscilante o láser (CNC):</strong> ideales para cortes complejos, repetitivos y de alta precisión.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Corta-tiras:</strong> preparan piezas largas y delgadas como porta-billetes o divisiones internas.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Corta tiras:</strong> preparan piezas largas y delgadas como porta billetes o divisiones internas.</li>
                 </ul>
 
         <!-- BLOQUE 2 -->

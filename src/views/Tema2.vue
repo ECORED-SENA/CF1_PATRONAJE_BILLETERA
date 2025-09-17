@@ -184,7 +184,7 @@
                 p.mb-0 Formato compacto y horizontal. Priorizan los compartimentos para billetes y tarjetas. Diseño sobrio, menor volumen.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img22.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img22.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -192,7 +192,7 @@
                 p.mb-0 Tamaño más amplio. Incluye espacios para monedas, documentos y accesorios. Puede llevar cierres o cremalleras. Diseño más versátil.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img23.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img23.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -200,7 +200,7 @@
                 p.mb-0 Más pequeño y delgado. Diseñado exclusivamente para portar tarjetas. Prioriza la ligereza y ocupación mínima de espacio.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img24.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img24.png', alt='' style="max-width: 500px").m-auto
     
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

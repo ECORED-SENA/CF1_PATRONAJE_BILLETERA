@@ -42,7 +42,7 @@
                     p.mb-0 El más común y versátil. Ofrece resistencia, cuerpo firme y admite acabados como napa, pigmentado o grabado. Preferido para billeteras de gama media y alta. 
                   .col-xl-6
                     figure.d-none.d-xl-block
-                      img(src='@/assets/curso/temas/img27.png', alt='' ).m-auto
+                      img(src='@/assets/curso/temas/img27.png', alt='' style="max-width: 500px").m-auto
                 
                 .row.h-100.justify-content-center.align-items-center
                   .col-xl-6.mb-4
@@ -50,7 +50,7 @@
                     p.mb-0 Más delgado y flexible, con textura granulada. Ideal para billeteras finas y elegantes por su ligereza y buena resistencia. 
                   .col-xl-6
                     figure.d-none.d-xl-block
-                      img(src='@/assets/curso/temas/img28.png', alt='' ).m-auto
+                      img(src='@/assets/curso/temas/img28.png', alt='' style="max-width: 500px").m-auto
 
                 .row.h-100.justify-content-center.align-items-center
                   .col-xl-6.mb-4
@@ -58,7 +58,7 @@
                     p.mb-0 Muy suave, flexible y de apariencia delicada. Usado en billeteras de alta gama, especialmente en interiores y forros. 
                   .col-xl-6
                     figure.d-none.d-xl-block
-                      img(src='@/assets/curso/temas/img29.png', alt='' ).m-auto
+                      img(src='@/assets/curso/temas/img29.png', alt='' style="max-width: 500px").m-auto
                       
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -79,7 +79,7 @@
                 p.mb-0 Considerados los más lujosos. Piel con patrón de escamas único, alta resistencia y durabilidad. Usado en billeteras, bolsos y cinturones de gama muy alta. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img30.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img30.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -87,7 +87,7 @@
                 p.mb-0 Patrones brillantes y llamativos. Flexible y ligera, ideal para detalles decorativos. Requiere cuidados especiales para mantener las escamas. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img31.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img31.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -95,7 +95,7 @@
                 p.mb-0 Textura con folículos visibles (puntitos). Muy resistente y flexible. Usado en billeteras y carteras de lujo. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img32.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img32.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -103,7 +103,7 @@
                 p.mb-0 Textura muy característica y visualmente distintiva. Utilizada en artículos de alta gama. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img33.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img33.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -111,7 +111,7 @@
                 p.mb-0 Extremadamente dura, resistente al agua, al fuego y al desgaste. Superficie granulada y brillante como perlas diminutas. Elegida para billeteras exclusivas. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img34.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img34.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -119,7 +119,7 @@
                 p.mb-0 Grano áspero, robusto y resistente. Impermeable y de gran durabilidad. Usado en accesorios marinos de alta gama. 
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img35.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img35.png', alt='' style="max-width: 500px").m-auto
 
     h4.mb-5.caja-titulos-cuarto-nivel(data-aos="fade-right") Ventajas y desventajas de los cueros exóticos
 
@@ -304,7 +304,7 @@
                 p.mb-0 Elaboradas principalmente en PVC o vinilo. Usadas con fines publicitarios, incluyen logotipos o mensajes.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img44.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img44.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -312,7 +312,7 @@
                 p.mb-0 Fabricadas en PU, con diseños modernos, colores llamativos y estampados gráficos.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img45.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img45.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -320,7 +320,7 @@
                 p.mb-0 Utilizan PU de alta calidad, imitando cuero auténtico. Aportan estética cuidada a menor costo.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img46.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img46.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -328,7 +328,7 @@
                 p.mb-0 Combinan sintéticos con textiles, lonas o partes de cuero. Buscan equilibrio entre estética, funcionalidad y precio.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img47.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img47.png', alt='' style="max-width: 500px").m-auto
 
     p.mb-5 Los <strong>materiales sintéticos</strong> representan una alternativa estratégica en la marroquinería contemporánea, especialmente en la fabricación de billeteras que priorizan el diseño, el costo accesible y la resistencia al uso diario. Aunque no alcanzan la durabilidad ni el prestigio del cuero natural, su uso es clave en la <strong>diversificación del mercado</strong> y en la atención a <strong>públicos con distintas necesidades económicas y estilísticas</strong>.
 
@@ -351,7 +351,7 @@
                 p.mb-0 Tejido resistente y con cuerpo, ideal para exteriores de billeteras tipo casual o deportivas.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img48.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img48.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -359,7 +359,7 @@
                 p.mb-0 Aporta un estilo urbano e informal, especialmente atractivo para públicos jóvenes.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img49.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img49.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -367,7 +367,7 @@
                 p.mb-0 Mejora la resistencia al agua y al desgaste. Utilizada en billeteras con acabado rústico o vintage.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img50.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img50.png', alt='' style="max-width: 500px").m-auto
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -375,7 +375,7 @@
                 p.mb-0 Livianos, impermeables y duraderos. Comunes en diseños <em>outdoor</em> o billeteras minimalistas.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img51.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img51.png', alt='' style="max-width: 500px").m-auto
             
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
@@ -383,7 +383,7 @@
                 p.mb-0 Usados principalmente en forros internos por su resistencia a la fricción y bajo costo.
               .col-xl-6
                 figure.d-none.d-xl-block
-                  img(src='@/assets/curso/temas/img52.png', alt='' ).m-auto
+                  img(src='@/assets/curso/temas/img52.png', alt='' style="max-width: 500px").m-auto
 
     .fondo___color
       .px-5
@@ -400,10 +400,10 @@
                   img(src='@/assets/curso/temas/img53.jpg', alt='' style="max-width: 350px").m-auto
               .col-xl
                 <ul class="fa-ul estilo___ul mb-0">
-                  <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Reducción de costos</strong> frente al uso de cuero natural.</li>
+                  <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Reducción de costos:</strong> frente al uso de cuero natural.</li>
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Mayor variedad visual:</strong> permiten una amplia gama de colores, estampados y estilos gráficos.</li>
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Menor peso:</strong> lo que se traduce en mayor comodidad para el usuario.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Compatibilidad con materiales reciclados o ecológicos</strong>, lo que los hace adecuados para líneas de productos sostenibles o de bajo impacto ambiental.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Compatibilidad con materiales reciclados o ecológicos:</strong> lo que los hace adecuados para líneas de productos sostenibles o de bajo impacto ambiental.</li>
                 </ul>
 
         <!-- BLOQUE 2 -->
