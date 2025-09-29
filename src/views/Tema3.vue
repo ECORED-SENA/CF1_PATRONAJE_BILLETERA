@@ -172,8 +172,8 @@
 
         figure(data-aos="zoom-in")
         .video.mb-1
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption.mb-5(data-aos="zoom-in") <strong>Video</strong>: TEXTO
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/_R37K-74Fpk" title="Acabados, ventajas y procesos del cuero en la fabricación de billeteras" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption.mb-5(data-aos="zoom-in") <strong>Video</strong>: Acabados, ventajas y procesos del cuero en la fabricación de billeteras.
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
