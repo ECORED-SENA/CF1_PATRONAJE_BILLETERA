@@ -121,7 +121,7 @@
                 <ul class="fa-ul estilo___ul mb-0">
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Máquina de lustrado o pulido de cantos:</strong> sella y suaviza los bordes.</li>
                   <li class="mb-3"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Máquinas entintadoras de bordes:</strong> aplican pintura o sellador con precisión.</li>
-                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Pulidoras manuales:</strong> logran acabados artesanales en productos premium.</li>
+                  <li class="mb-0"><span class="fa-li"><i class="fas fa-cut"></i></span><strong>Pulidoras manuales:</strong> logran acabados artesanales en productos #[em premium].</li>
                 </ul>
 
         <!-- BLOQUE 6 -->
@@ -167,7 +167,7 @@
             figure
               img(src="@/assets/curso/temas/img77.svg", alt='' style="max-width: 80px").m-auto
           .estilo___tarjeta_body.ajuste___box_tarjeta
-            p.mb-0 Martillos de <em>nylon</em> o goma.
+            p.mb-0 Martillos de nylon o goma.
 
       .col-xl-2.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .estilo___tarjeta(data-aos="zoom-in")

@@ -371,7 +371,7 @@
 
             .row.h-100.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 <em>Nylon</em> y materiales técnicos
+                h4 Nylon y materiales técnicos
                 p.mb-0 Livianos, impermeables y duraderos. Comunes en diseños <em>outdoor</em> o billeteras minimalistas.
               .col-xl-6
                 figure.d-none.d-xl-block
@@ -433,7 +433,7 @@
                 td.ajuste-border-tabla.texto-left <strong>Poliéster de alta tenacidad</strong>
                 td.texto-left Muy resistente a la tracción y al desgaste. Mantiene su color frente a la humedad y el sudor. Ideal para costuras visibles y forros internos.
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla.texto-left <strong><em>Nylon</em> (poliamida)</strong>
+                td.ajuste-border-tabla.texto-left <strong>Nylon (poliamida)</strong>
                 td.texto-left Flexible, resistente al estiramiento. Común en billeteras deportivas o de lona. Muy usado por su durabilidad, especialmente en bordes.
               tr
                 td.ajuste-border-tabla.texto-left <strong>Hilo encerado</strong>
